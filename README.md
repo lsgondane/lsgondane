@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lsgondane
+- 👋 Hi, I’m Lokesh Gondane 
 - 👀 I’m interested in Learning tools and tech, Exploring tools tech and places, Making things, Playing TT, Cricket, Carom
 - 🌱 I’m currently learning Ansible, OpenShift
 - 💞️ I’m looking to collaborate on Hybrid Cloud Platform Automation and Security
