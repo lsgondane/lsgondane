@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lokesh Gondane 
-- 👀 I’m interested in Learning tools and tech, Exploring tools tech and places, Making things, Playing TT, Cricket, Carom
-- 🌱 I’m currently learning Ansible, OpenShift
-- 💞️ I’m looking to collaborate on Hybrid Cloud Platform Automation and Security
+- 👀 I’m passionate about SRE practices Observability, and Automation. 
+- 🌱 I’m curiosity to learn keeps me engaged to explore new tools and technologies 
+- 💞️ I’m happy to collaborate with you.
 - 📫 Connect with me me at : https://www.linkedin.com/in/lokeshgondane/
 
 <!---
